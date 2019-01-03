@@ -1,0 +1,2 @@
+{"book1":{"type_id":123,"price":"20","publisher":"清华出版社","book_id":"123456","writer":"李晓锋","state":"1","book_name":"数据结构"},"reader_id":"123456","keepmoney":20,"password":"123456","BookBorrow":2,"reader_name":"李晓风","sex":"男","maxnum":20,"age":20,"book0":{"type_id":123,"price":"20","publisher":"清华出版社","book_id":"654321","writer":"贺旭阳","state":"1","book_name":"算法导论"}}
+{"reader_id":"654321","keepmoney":20,"password":"123456","BookBorrow":0,"reader_name":"贺旭阳","sex":"男","maxnum":20,"age":20}
